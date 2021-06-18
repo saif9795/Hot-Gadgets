@@ -29,13 +29,47 @@ background-repeat: no-repeat;
     } 
 .card{
     border: none;
+    border-radius: 10px;
     box-shadow: 5px 5px 10px lightgrey;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 .card-body{
     text-align: center;
 }
 .card img{
     padding: 40px 40px;
+}
 
+#category p{
+    margin-top: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+#category span{
+    text-decoration: underline;
+    text-underline-position: under;
+    text-decoration-thickness: 7px;
+    text-decoration-color: rgba(252, 112, 19, 0.945)
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 10px lightgray;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+.finish p{
+    color:gray;
+}
+.finish{
+    margin-bottom: 100px;
+}
+footer{
+    color: gray;
+    font-size: 15px;
+    text-align: center;
+}
+.col-sm-3{
+    align-items: center;
 }
