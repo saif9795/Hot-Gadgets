@@ -1,0 +1,41 @@
+.container-fluid{
+    margin-top: 30px;
+}
+.carousel-inner{
+background-image:url(images/bg-1.png);
+background-position: 42%;
+background-repeat: no-repeat;
+}
+.button{
+    background-color: black;
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.col-md-4 p{
+    color: gray;
+}
+.im img{
+    width: 120px;
+}
+#product p{
+  color: yellow; 
+  font-weight: bolder; 
+}
+#product{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    } 
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    margin-bottom: 20px;
+}
+.card-body{
+    text-align: center;
+}
+.card img{
+    padding: 40px 40px;
+
+}
